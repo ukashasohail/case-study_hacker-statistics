@@ -2,6 +2,8 @@
 
 ### Hacker stats just means any statistical analysis that relies heavily on simulation or re-sampling for inference.
 
+##### simulate this process lets say 1000  times and see how many times a person reaches 60 steps -> hacker statistics
+
 #### Here a condition is simulated that a person is walking up in a 100 floors building and a person is playing a game with his friend
 
 ##### Game conditions are as follows:
@@ -17,3 +19,4 @@ There is also a chance of person falling down of stairs = 0.1% & if you fall you
 ##### A person bets with his friend that he reaches 60 steps
 
 ###### what is a chance that the person wins this bet? 
+
