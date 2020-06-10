@@ -1,8 +1,8 @@
 # case-study_hacker-statistics
 
-### hacker stats just means any statistical analysis that relies heavily on simulation or re-sampling for inference.
+ hacker stats just means any statistical analysis that relies heavily on simulation or re-sampling for inference.
 
-### here a condition is simulated that a person is walking up in a 100 floors building and a person is playing a game with his friend
+#### here a condition is simulated that a person is walking up in a 100 floors building and a person is playing a game with his friend
 
 ### game conditions are as follow:
 
