@@ -16,4 +16,4 @@ There is also a chance of person falling down of stairs = 0.1% & if you fall you
 
 ##### A person bets with his friend that he reaches 60 steps
 
-###### what is a chance that the person wins this bst? 
+###### what is a chance that the person wins this bet? 
